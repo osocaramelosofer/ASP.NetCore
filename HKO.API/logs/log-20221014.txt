@@ -1,0 +1,15 @@
+2022-10-14 10:57:38.171 -05:00 [INF] Now listening on: https://localhost:7165
+2022-10-14 10:57:38.213 -05:00 [INF] Now listening on: http://localhost:5165
+2022-10-14 10:57:38.217 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-14 10:57:38.218 -05:00 [INF] Hosting environment: Development
+2022-10-14 10:57:38.218 -05:00 [INF] Content root path: C:\Users\F4533561\source\repos\ASP.NetCore\HKO.API\
+2022-10-14 13:31:00.887 -05:00 [INF] Now listening on: https://localhost:7165
+2022-10-14 13:31:00.931 -05:00 [INF] Now listening on: http://localhost:5165
+2022-10-14 13:31:00.936 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-14 13:31:00.936 -05:00 [INF] Hosting environment: Development
+2022-10-14 13:31:00.937 -05:00 [INF] Content root path: C:\Users\F4533561\source\repos\ASP.NetCore\HKO.API\
+2022-10-14 13:56:26.964 -05:00 [INF] Now listening on: https://localhost:7165
+2022-10-14 13:56:27.015 -05:00 [INF] Now listening on: http://localhost:5165
+2022-10-14 13:56:27.019 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-14 13:56:27.019 -05:00 [INF] Hosting environment: Development
+2022-10-14 13:56:27.019 -05:00 [INF] Content root path: C:\Users\F4533561\source\repos\ASP.NetCore\HKO.API\
