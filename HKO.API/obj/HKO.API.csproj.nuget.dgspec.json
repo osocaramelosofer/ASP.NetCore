@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\F4533561\\source\\repos\\ASP.NetCore\\HKO.API\\HKO.API.csproj": {}
+    "C:\\Users\\osoca\\source\\repos\\HKO\\HKO.API\\HKO.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\F4533561\\source\\repos\\ASP.NetCore\\HKO.API\\HKO.API.csproj": {
+    "C:\\Users\\osoca\\source\\repos\\HKO\\HKO.API\\HKO.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\F4533561\\source\\repos\\ASP.NetCore\\HKO.API\\HKO.API.csproj",
+        "projectUniqueName": "C:\\Users\\osoca\\source\\repos\\HKO\\HKO.API\\HKO.API.csproj",
         "projectName": "HKO.API",
-        "projectPath": "C:\\Users\\F4533561\\source\\repos\\ASP.NetCore\\HKO.API\\HKO.API.csproj",
-        "packagesPath": "C:\\Users\\F4533561\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\F4533561\\source\\repos\\ASP.NetCore\\HKO.API\\obj\\",
+        "projectPath": "C:\\Users\\osoca\\source\\repos\\HKO\\HKO.API\\HKO.API.csproj",
+        "packagesPath": "C:\\Users\\osoca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osoca\\source\\repos\\HKO\\HKO.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.2.0.44\\ToolboxNuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\F4533561\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+          "C:\\Users\\osoca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,6 +53,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.10, )"
             },

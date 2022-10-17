@@ -1,0 +1,15 @@
+2022-10-16 20:34:59.543 -05:00 [INF] Now listening on: https://localhost:7165
+2022-10-16 20:34:59.606 -05:00 [INF] Now listening on: http://localhost:5165
+2022-10-16 20:34:59.617 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-16 20:34:59.634 -05:00 [INF] Hosting environment: Development
+2022-10-16 20:34:59.646 -05:00 [INF] Content root path: C:\Users\osoca\source\repos\HKO\HKO.API\
+2022-10-16 20:39:18.214 -05:00 [INF] Now listening on: https://localhost:7165
+2022-10-16 20:39:18.258 -05:00 [INF] Now listening on: http://localhost:5165
+2022-10-16 20:39:18.262 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-16 20:39:18.264 -05:00 [INF] Hosting environment: Development
+2022-10-16 20:39:18.265 -05:00 [INF] Content root path: C:\Users\osoca\source\repos\HKO\HKO.API\
+2022-10-16 20:40:59.676 -05:00 [INF] Now listening on: https://localhost:7165
+2022-10-16 20:40:59.761 -05:00 [INF] Now listening on: http://localhost:5165
+2022-10-16 20:40:59.764 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-16 20:40:59.765 -05:00 [INF] Hosting environment: Development
+2022-10-16 20:40:59.767 -05:00 [INF] Content root path: C:\Users\osoca\source\repos\HKO\HKO.API\

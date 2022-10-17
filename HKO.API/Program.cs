@@ -1,3 +1,4 @@
+using HKO.API.Data;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
@@ -6,9 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 // Connection with the database.
-var connString = builder.Configuration.GetConnectionString("DsapoDatabaseConnection");
+var connString = builder.Configuration.GetConnectionString("BookStoreConnection");
 // Dbcontext represents the conexion with the database
-//builder.Services.AddDbContext<HKODbContext>(options => options.UseSqlServer(connString));
+builder.Services.AddDbContext<BookStoreDbContext>(options => options.UseSqlServer(connString));
 
 
 builder.Services.AddControllers();
